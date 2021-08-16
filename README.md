@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MUHAMMED-JUNAID-NK
 - 👀 I’m interested in ... DATA ANALYTICS AND RPA
-- 🌱 I’m currently learning ...DATA ANALYTICS HAVE CERTIFIED WITH GOOGLE
+- 🌱 I’m currently learning ...DATA ANALYTICS and have certified with  GOOGLE
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... at junaidc578@gmail.com
 
